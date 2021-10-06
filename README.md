@@ -4,3 +4,5 @@ When opening the installer remember to select "Change how your Setup downloads u
 If you want to flash it to the usb just convert it to an iso and youre done!
 The setup app is the exe app, all of the other files are dependencies, they are required
 Download link: https://drive.google.com/drive/folders/1gSE1hhobBmCV8R03Bo1lCl1kuMm1ZeWx?usp=sharing
+
+If youre stuck feel free to DM me on discord, tag: mvuksan544#5546
